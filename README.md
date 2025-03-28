@@ -44,8 +44,7 @@ Utilizamos uma abordagem híbrida:
 
 Score final baseado em 70% similaridade e 30% popularidade.
 
-Web App:
-https://techchallenge03.streamlit.app/
+Web App: https://techchallenge03.streamlit.app/
 
 ---
 
