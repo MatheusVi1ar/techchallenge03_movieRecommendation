@@ -68,6 +68,7 @@ Para garantir eficiência na recuperação e armazenamento dos dados, realizamos
 
 Script de Criação e Carga:
 https://www.mediafire.com/file/xnwd2ukctozmopg/techchallenge_03_database.sql/file
+
 ---
 
 Visualização
